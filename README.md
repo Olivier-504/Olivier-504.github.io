@@ -1,3 +1,15 @@
+# Hi, I'm Olivier. Welcome to my ePortfolio.
+
+## ePortfolio Intro:
+
+- This page contains links to projects that demonstrate my ability to complete a project in varying areas of computer science.
+- Each project will be accompanied by a narrative explaining what the project is and why I included it in this site.
+- In addition to the narratives, I have included a code review I conducted on each of the projects before enhancing them and adding them to the site.
+
+## Code Review:   
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Olivier-504/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
