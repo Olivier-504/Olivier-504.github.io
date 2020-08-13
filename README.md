@@ -1,3 +1,13 @@
+## For this Eportfolio I am sharing three projects that fit under categories of the following:
+
+## 1: Software Engineering and Design
+## 2: Algorithms and Data Structures 
+## 3: Databases
+
+## Each of the projects demonstrate 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Olivier-504/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
