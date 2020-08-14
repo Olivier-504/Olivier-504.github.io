@@ -8,7 +8,7 @@
 
 ## Code Review:   
 
-Use this [![Code Review](https://drive.google.com/file/d/1ck6YrnNSCfqgkoI2cXooLJOmLx8r9p2F/view?usp=sharing)](https://drive.google.com/file/d/1jcxPzzgW1I_U4lcVBmadQemr-_02WJ9y/view?usp=sharing) link in order to view my comprehensive analysis of the projects below.
+Use this [Code Review](https://drive.google.com/file/d/1ck6YrnNSCfqgkoI2cXooLJOmLx8r9p2F/view?usp=sharing)(https://drive.google.com/file/d/1jcxPzzgW1I_U4lcVBmadQemr-_02WJ9y/view?usp=sharing) link in order to view my comprehensive video analysis of the projects below.
 
 ## Welcome to GitHub Pages
 
