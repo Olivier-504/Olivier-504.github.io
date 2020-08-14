@@ -8,7 +8,7 @@
 
 ## Code Review:   
 
-Use [this link](/Users/Olivier/Desktop/SNHU Files/CS-499 Computer Science Capstone/Module_2/codeReview.MOV) to access the code review I conducted on the below projects.
+Use [this link](https://drive.google.com/file/d/1jcxPzzgW1I_U4lcVBmadQemr-_02WJ9y/view?usp=sharing) to access the code review I conducted on the below projects.
 
 ## Welcome to GitHub Pages
 
