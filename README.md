@@ -16,17 +16,20 @@ This section offers links to access both the source code for my artifacts and ac
 
 ### Software Engineering and Design:
 
-Source Code: [LCR Dice](https://github.com/Olivier-504/LCR_Dice_Game)
+Source Code: [LCR Dice](https://github.com/Olivier-504/LCR_Dice_Game)  
+
 Accompanying Narrative: [Explanation of Artifact](https://drive.google.com/file/d/1g6mHT5ayLRT_2ef8OebBW7x70eKu-iWS/view?usp=sharing)
 
 ### Algorithms and Data Structures:
 
-Source Code: [Linked List](https://github.com/Olivier-504/LinkedList)
+Source Code: [Linked List](https://github.com/Olivier-504/LinkedList)  
+
 Accompanying Narrative: [Explanation of Artifact](https://drive.google.com/file/d/1GeKYM_B45PY3zDTS_eO2qivFPnvlc3oO/view?usp=sharing)
 
 ### Databases:
 
-Source Code: [stocksMongoDB](https://github.com/Olivier-504/stocksMongoDB)
+Source Code: [stocksMongoDB](https://github.com/Olivier-504/stocksMongoDB)  
+
 Accompanying Narrative: [Explanation of Artifact](https://drive.google.com/file/d/1pdCZZOyd5JjZdk2H0u66Oh8Vt1c-HXaM/view?usp=sharing)
 
 ## Welcome to GitHub Pages
