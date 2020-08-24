@@ -2,7 +2,7 @@
 
 # Intro:
 
-- This page contains links to projects that demonstrate my ability to complete a project in varying areas of computer science.
+- This page contains links to source code that demonstrate my ability to complete a project in varying areas of computer science.
 - Each project will be accompanied by a narrative explaining what the project is and why I included it in this site.
 - In addition to the narratives, I have included a code review I conducted on each of the projects before enhancing them and adding them to the site.
 - To begin, please click the link below in order to read a self-assessment of my experience with Southern New Hampshire University's computer science degree program
